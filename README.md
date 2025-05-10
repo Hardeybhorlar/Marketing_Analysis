@@ -12,8 +12,8 @@ Excel
 Power Bi
 
 ## Key Insights
-Compared performance across multiple platforms
-Calculated ROI and profitability per chanel
+Compared performance across multiple platforms,
+Calculated ROI and profitability per channel,
 Evaluated customer acquisition cost and efficiency
 
 ## Summary
