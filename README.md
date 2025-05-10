@@ -3,9 +3,9 @@ This project analyses marketing data collected over a one-month period to evalua
 
 ## Project Goal
 The main objective was to assess
-**Return on Investment (ROI)**
-**Profitability**
-**Customer acquuisition efficiency**
+**Return on Investment (ROI),**
+**Profitability,**
+**Customer acquisition efficiency**
 
 ## Tools Used
 Excel
